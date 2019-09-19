@@ -34,6 +34,4 @@ public class MemberController {
         return memberService.updateMemberEmail(id, member.getEmail());
     }
 
-
-
 }
